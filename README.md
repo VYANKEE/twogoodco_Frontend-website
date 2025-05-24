@@ -24,8 +24,4 @@ The UI and animation concepts were inspired by the **Twogood Co** website (https
 
 Some elements and animations are uniquely implemented in this version to give it a personal touch and learning experience.
 
-## 🚀 How to Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
